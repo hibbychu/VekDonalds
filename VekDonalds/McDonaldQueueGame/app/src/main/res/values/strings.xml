@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">McDonaldQueueGame</string>
+    <string name="chef">Chef</string>
+    <string name="cashier">Cashier</string>
+    <string name="plusBtn">+</string>
+    <string name="minusBtn">-</string>
+
+</resources>
